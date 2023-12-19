@@ -16,7 +16,7 @@ The system has two roles:
 
 ### Student
 
-- **GET /api/v1/student**: Retrieve all club students
+- **GET /api/v1/student**: Retrieve all students
 - **GET /api/v1/student/{id}**: Retrieve a specific student
 - **POST /api/v1/student**: Create a new student
 - **PUT /api/v1/student/{id}**: Update an existing student
