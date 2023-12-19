@@ -24,7 +24,7 @@ The system has two roles:
 
 ### Course
 
-- **GET /api/v1/course**: Retrieve all club courses
+- **GET /api/v1/course**: Retrieve all courses
 - **GET /api/v1/course/{id}**: Retrieve a specific course
 - **POST /api/v1/course**: Create a new course
 - **PUT /api/v1/course/{id}**: Update an existing course
